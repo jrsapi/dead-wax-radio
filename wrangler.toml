@@ -1,0 +1,5 @@
+name = "dead-wax-radio"
+compatibility_date = "2025-11-19"
+
+[site]
+bucket = "./"
